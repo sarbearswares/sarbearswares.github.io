@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sar Bear's Wares - Cross Stitch Patterns, Kits, Needle Minders and more
+title: Sar Bear's Wares
 email: sarbearswares@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sar Bear's Wares - Cross Stitch Patterns, Kits, Needle Minders and more
@@ -62,7 +62,7 @@ author:
   links:
     - label: "Etsy Shop"
       icon: "fab fa-fw fa-etsy"
-      url: "https://searbearswares.etsy.com"
+      url: "https://sarbearswares.etsy.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sarbearswares"
@@ -77,7 +77,7 @@ footer:
   links:
     - label: "Etsy Shop"
       icon: "fab fa-fw fa-etsy"
-      url: "https://searbearswares.etsy.com"
+      url: "https://sarbearswares.etsy.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sarbearswares"
