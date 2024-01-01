@@ -1,6 +1,7 @@
 ---
 permalink: /markets/
 title: "Markets"
+author_profile: false
 ---
 
 Here's where you can find Sar Bear's Wares at markets in the Raleigh, NC area over the next few months. Hope to see you there!
