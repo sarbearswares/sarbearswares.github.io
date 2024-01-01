@@ -1,22 +1,16 @@
 ---
 layout: splash
+title: Sar Bear's Wares
+excerpt: "Cross Stitch Patterns, Kits, Needle Minders, and more"
+header:
+  overlay_image: https://d2j6dbq0eux0bg.cloudfront.net/startersite/images/86895813/1682373974104.jpg
+  actions:
+    - label: "Shop Now"
+    url: "https://sarbearswares.etsy.com"
+
 ---
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
