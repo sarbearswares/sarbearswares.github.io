@@ -6,7 +6,7 @@ author_profile: false
 
 Here's where you can find Sar Bear's Wares at markets in the Raleigh, NC area over the next few months. Hope to see you there!
 
-<figure>
+<figure class="third">
 	<img src="https://d2j6dbq0eux0bg.cloudfront.net/images/86895813/3704277217.jpg">
 </figure>
 
